@@ -1,7 +1,7 @@
 # Movie Rating Analysis
 
-movies = ["Dangal", "3 Idiots", "Jawan", "Pathaan"]
-ratings = [9, 10, 8, 7]
+movies = ["Dangal", "3 Idiots", "Jawan", "Pathaan","qourin"]
+ratings = [9, 10, 8, 7,4]
 
 print("MOVIE RATING ANALYSIS")
 print("---------------------")
